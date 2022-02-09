@@ -14,13 +14,6 @@
 <img src="https://user-images.githubusercontent.com/58112670/152678647-f9f5507f-2218-45f3-a876-c6dead5b0c3a.png" width="450"/>
 <br>
 
-## Files
-* train.py : 스미싱탐지 딥러닝 모델(modelModify.h5) 학습
-* individual_test.py : view.html에서 입력받은 문자메세지가 스미싱인지 딥러닝 모델로 탐지
-* function.py : 
-* view.py : 
-* templates/view.html : 분석할 문자 메시지를 입력받는 웹페이지
-* templates/function.html : 스미싱 탐지결과를 알리는 웹페이지
 
 
 ## 웹 구현 영상
